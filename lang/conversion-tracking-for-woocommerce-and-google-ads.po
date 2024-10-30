@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Conversion Tracking for WooCommerce and Google Ads\n"
+"POT-Creation-Date: 2020-10-26 06:14-0500\n"
+"PO-Revision-Date: 2020-10-26 06:14-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: blocks\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: ../admin/class-daextctwga-admin.php:312
+msgid "GA"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:313
+msgid "Google Ads"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:322
+msgid "GA - Help"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:323
+msgid "Help"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:331
+msgid "GA - Options"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:332
+msgid "Options"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:372
+msgid "Conversion ID"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:386
+msgid "Conversion Label"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:400
+msgid "Order Value"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:414
+msgid "Global Site Tag"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:436
+msgid "Excluded User Capability"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:450
+msgid "Excluded User IP"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:464
+msgid "Require Coookie"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:478
+msgid "Coookie Name"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:492
+msgid "Cookie Value"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:511
+msgid "The Google Ads Conversion ID."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:528
+msgid "The Google Ads Conversion Label."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:546
+msgid "Subtotal"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:548
+msgid "Total"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:550
+msgid ""
+"Select \"Subtotal\" to not include tax and shipping in the order value or "
+"\"Total\" to include tax and shipping in the order value."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:569 ../admin/class-daextctwga-admin.php:625
+msgid "No"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:571 ../admin/class-daextctwga-admin.php:627
+msgid "Yes"
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:573
+msgid "Select whether to include or not the Global Site Tag on the page."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:592
+msgid ""
+"The Event Snippet associated with the Google Ads conversion will not be "
+"included if the page is visited by users that own one or more of the "
+"capabilities listed in this comma-separated list."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:608
+msgid ""
+"The Event Snippet associated with the Google Ads conversion will not be "
+"included if the page is visited by users with the IP addresses listed in "
+"this comma-separated list."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:629
+msgid ""
+"If you select \"Yes\" the Global Site Tag and the Event Snippet will be "
+"added to the page only if the cookie specified in the \"Cookie Name\" and "
+"\"Cookie Value\" options is present."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:647
+msgid "The name of the cookie."
+msgstr ""
+
+#: ../admin/class-daextctwga-admin.php:664
+msgid "The value of the cookie. Leave this option empty to allow any value."
+msgstr ""
+
+#: ../admin/view/help.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/view/help.php:13
+msgid "Conversion Tracking for WooCommerce and Google Ads - Help"
+msgstr ""
+
+#: ../admin/view/help.php:17
+msgid ""
+"Visit the resources below to find your answers or to ask questions directly "
+"to the plugin developers."
+msgstr ""
+
+#: ../admin/view/help.php:20
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../admin/view/help.php:21
+msgid "Support Conditions"
+msgstr ""
+
+#: ../admin/view/help.php:22
+msgid "Developer Website"
+msgstr ""
+
+#: ../admin/view/help.php:23
+msgid "WordPress.org Plugin Page"
+msgstr ""
+
+#: ../admin/view/help.php:24
+msgid "WordPress.org Support Forum"
+msgstr ""
+
+#: ../admin/view/options.php:4
+msgid "You do not have sufficient capabilities to access this page."
+msgstr ""
+
+#: ../admin/view/options.php:11
+msgid "Conversion Tracking for WooCommerce and Google Ads - Options"
+msgstr ""
+
+#: ../admin/view/options.php:31
+msgid "Tag Setup"
+msgstr ""
+
+#: ../admin/view/options.php:34
+msgid "Advanced"
+msgstr ""
+
+#: ../admin/view/options.php:60
+msgid "Save Changes"
+msgstr ""
